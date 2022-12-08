@@ -202,8 +202,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.da6cd496.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
-	height: 142px;
+	width: 260px;
+	height: 70px;
 	position: absolute;
 	left: 250px;
 	top: 150px;
@@ -217,7 +217,7 @@ a {
 	width: 250px;
 	height: 70px;
 	position: absolute;
-	left: 335px;
+	left: 330px;
 	top: 310px;
 }
 
