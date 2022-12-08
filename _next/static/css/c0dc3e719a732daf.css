@@ -190,7 +190,7 @@ a {
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.a23b0d25.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.2345b642.png);
 	background-repeat: no-repeat;
 	position: absolute;
 	width: 608px;
@@ -199,11 +199,11 @@ a {
 
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.da6cd496.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.a6508acc.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 260px;
-	height: 70px;
+	width: 420px;
+	height: 142px;
 	position: absolute;
 	left: 250px;
 	top: 150px;
@@ -217,7 +217,7 @@ a {
 	width: 250px;
 	height: 70px;
 	position: absolute;
-	left: 330px;
+	left: 335px;
 	top: 310px;
 }
 
